@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Models
+models/
+*.pickle
+*.pkl
+*.joblib
+*.keras
+*.h5
