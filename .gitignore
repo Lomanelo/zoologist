@@ -16,3 +16,4 @@ models/
 *.joblib
 *.keras
 *.h5
+.env
